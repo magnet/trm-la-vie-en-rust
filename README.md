@@ -1,12 +1,12 @@
-# trm-la-vie-en-rust
+# La Vie En Rust
 
-Slides for Toulouse Rust Meetup's talk: La Vie en Rust (english).
+Slides for Toulouse Rust Meetup's talk: La Vie En Rust (English).
 
 ## Toulouse Rust Meetup
 
-This talk happened on Jan 30, 2019, for the opening event of the Toulouse Rust Meetup. Don't hesitate to submit your own talks to the (CFP)[https://github.com/Rust-Toulouse/CFP]!
+This talk happened on Jan 30, 2019, for the opening event of the Toulouse Rust Meetup. Don't hesitate to submit your own talks to the [CFP](https://github.com/Rust-Toulouse/CFP)!
 
-# Short Abstract (EN)
+## Short Abstract (EN)
 
 This is a non-technical talk on why Rust matters, how much time one needs to get productive, and how Rust compares to other languages.
 
