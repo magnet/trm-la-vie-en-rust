@@ -1,0 +1,8 @@
+[package]
+name = "rust-toulouse"
+version = "0.1.0"
+authors = ["Simon Chemouil <simon.chemouil@lambdacube.fr>"]
+edition = "2018"
+
+[dependencies]
+prettytable-rs = "0.8.0"
